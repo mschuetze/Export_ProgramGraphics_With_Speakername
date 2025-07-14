@@ -9,6 +9,8 @@ Die Speakernamen werden pro Grafik/Seite über das Absatzformat "speakers" gesuc
 
 ## Export-Dialog
 
+![alt text](https://github.com/mschuetze/Export_ProgramGraphics_With_Speakername/blob/main/image2.png)
+
 ### 1. Namensschema
 Wir können festlegen, welche der folgenden Informationen beim Export, zusätzlich zum Speakernamen, automatisch in den Dateinamen integriert werden sollen:
 - Maße (Höhe x Breite)
@@ -24,3 +26,4 @@ Wir können aus den folgenden drei Presets wählen:
 Hier können wir zwischen den folgenden beiden Dateiformaten wählen:
 - JPG 
 - PNG (mit Transparenz)
+
